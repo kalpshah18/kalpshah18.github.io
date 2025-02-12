@@ -8,6 +8,6 @@ Welcome to my blog! I'm Kalp Shah, a passionate student at the Indian Institute 
 
 ### Contact me
 
-[Mail Me Related to School Work](mailto:24110152@iitgn.ac.in)
-[Mail Me Personally](mailto:shahkalp07@gmail.com)
+[Mail Me Related to School Work](mailto:24110152@iitgn.ac.in)\
+[Mail Me Personally](mailto:shahkalp07@gmail.com)\
 [Linkedin](https://www.linkedin.com/in/kalpshah18/)
