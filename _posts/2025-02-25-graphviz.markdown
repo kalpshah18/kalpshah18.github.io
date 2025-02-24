@@ -7,7 +7,7 @@ github: kalpshah18
 date: '2025-02-22 16:35:00 +0530'
 category: tutorials
 img: Thumbnails/networkgraph.png
-tags: graphviz, graphviz tutorial, data science
+tags: [graphviz, graphviz tutorial, data science]
 permalink: /blog/graphviz/
 mathjax: true
 ---
