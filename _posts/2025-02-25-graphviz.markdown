@@ -87,7 +87,7 @@ digraph StyledGraph {
     B -> C [label="Step 2", color=blue];
 }
 ```
-![Generated Graph]({{ site.baseurl }}//Screenshots/graph3p.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph3p.png)
 
 ### Graph with Subgraphs
 ```dot
