@@ -5,7 +5,6 @@ summary: "Getting Started using Graphviz"
 author: Kalp Shah
 date: '2025-02-22 16:35:00 +0530'
 category: tutorials
-thumbnail: /assets/img/posts/code.jpg
 keywords: graphviz, graphviz tutorial
 permalink: /blog/graphviz/
 usemathjax: true
@@ -61,7 +60,7 @@ digraph G {
     A -> C [label="Edge"];
 }
 ```
-![Generated Graph](Screenshots/graph1p.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph1p.png)
 
 ### Undirected Graph
 This Graph shows a Triangle without any direction:
@@ -72,7 +71,7 @@ graph SimpleUndirectedGraph {
     3 -- 1;
 }
 ```
-![Generated Graph](./Screenshots/graph2p.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph2p.png)
 
 ### Adding Styles and Colors
 Customise your Nodes using different Labels, Styles, Shapes and Colors:
@@ -86,7 +85,7 @@ digraph StyledGraph {
     B -> C [label="Step 2", color=blue];
 }
 ```
-![Generated Graph](./Screenshots/graph3p.png)
+![Generated Graph]({{ site.baseurl }}//Screenshots/graph3p.png)
 
 ### Graph with Subgraphs
 ```dot
@@ -113,7 +112,7 @@ digraph ClusteredGraph {
     B -> D;
 }
 ```
-![Generated Graph](./Screenshots/graph4p.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph4p.png)
 
 ### Complex Graph with Edge Attributes
 We can create Complex Graphs for Visualisation easily as well.
@@ -128,7 +127,7 @@ digraph ComplexGraph {
     Reports -> Logout [label="Logout", color=red];
 }
 ```
-![Generated Graph](./Screenshots/graph5p.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph5p.png)
 
 ### Using Graphviz in Python
 ```python
@@ -142,7 +141,7 @@ dot.render('graph', format='png', view=True)
 ```
 This will create and display the graph using the Python Libarary.
 
-![Generated Graph](./Screenshots/graph1.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph1.png)
 
 You can also directly use Dot Language in the Python Extension if you want:
 ```python
@@ -164,7 +163,7 @@ dot.body = [
 
 dot.render('custom_graph', format='png', view=True)
 ```
-![Generated Graph](./Screenshots/graph2.png)
+![Generated Graph]({{ site.baseurl }}/Screenshots/graph2.png)
 
 ## Use Cases
 ### 1. **Software Engineering & Development**
