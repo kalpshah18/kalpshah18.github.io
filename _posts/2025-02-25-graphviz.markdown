@@ -5,6 +5,7 @@ summary: "Getting Started using Graphviz"
 author: Kalp Shah
 date: '2025-02-22 16:35:00 +0530'
 category: tutorials
+thumbnail: /Thumbnails/networkgraph.png
 keywords: graphviz, graphviz tutorial
 permalink: /blog/graphviz/
 usemathjax: true
