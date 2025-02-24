@@ -3,12 +3,13 @@ layout: post
 title:  "Visualizing Graphs with Graphviz"
 summary: "Getting Started using Graphviz"
 author: Kalp Shah
+github: kalpshah18
 date: '2025-02-22 16:35:00 +0530'
 category: tutorials
-thumbnail: /Thumbnails/networkgraph.png
-keywords: graphviz, graphviz tutorial
+img: /Thumbnails/networkgraph.png
+tags: graphviz, graphviz tutorial, data science
 permalink: /blog/graphviz/
-usemathjax: true
+mathjax: true
 ---
 
 ## Introduction
