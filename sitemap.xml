@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kalpshah18.github.io/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/about_me/education/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/about_me/me/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/about_me/work_exp/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/blog/articles/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/blog/graphviz/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/software/collaboration/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
          <loc>https://kalpshah18.github.io/software/projects/</loc>
-         <lastmod>2025-06-18</lastmod>
+         <lastmod>2025-06-26</lastmod>
+    </url>
+    <url>
+         <loc>https://kalpshah18.github.io/software/projects/pollution_data_analysis/</loc>
+         <lastmod>2025-06-26</lastmod>
     </url>
 </urlset>
