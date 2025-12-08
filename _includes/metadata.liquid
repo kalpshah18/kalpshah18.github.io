@@ -147,9 +147,6 @@
       {% when 'mastodon_username' %}
         {% capture link %}https://{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'medium_username' %}
-        {% capture link %}https://medium.com/@{{ social[1] }}{% endcapture %}
-        {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'orcid_id' %}
         {% capture link %}https://orcid.org/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}

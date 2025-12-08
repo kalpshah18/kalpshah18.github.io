@@ -187,10 +187,6 @@ ninja.data = [
           {%- assign social_id = "social-mastodon" -%}
           {%- assign social_title = "Mastodon" -%}
           {%- capture social_url %}"https://{{ social[1] }}"{% endcapture -%}
-        {%- when "medium_username" -%}
-          {%- assign social_id = "social-medium" -%}
-          {%- assign social_title = "Medium" -%}
-          {%- capture social_url %}"https://medium.com/@{{ social[1] }}"{% endcapture -%}
         {%- when "orcid_id" -%}
           {%- assign social_id = "social-orcid" -%}
           {%- assign social_title = "ORCID" -%}
@@ -198,7 +194,7 @@ ninja.data = [
         {%- when "osf_id" -%}
           {%- assign social_id = "social-osf" -%}
           {%- assign social_title = "Open Science Framework" -%}
-          {%- capture social_url %}"https://osf.io/{{ social[1] }}/"{% endcapture -%}
+          {%- capture social_url %}"https://osf.io/{{ social[1] }}"{% endcapture -%}
         {%- when "pinterest_id" -%}
           {%- assign social_id = "social-pinterest" -%}
           {%- assign social_title = "Pinterest" -%}
