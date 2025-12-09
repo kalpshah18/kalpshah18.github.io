@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some of my Projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -44,16 +44,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-dynamic-image-compression",
+        
+          title: "Dynamic Image Compression",
+        
+        description: "Dynamic Image Compression using Singular Value Decomposition",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ImageCompression/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -94,6 +100,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dynamic-image-compression",
+          title: 'Dynamic Image Compression',
+          description: "Dynamic Image Compression using Singular Value Decomposition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ImageCompression/";
             },},{
         id: 'social-email',
         title: 'email',
