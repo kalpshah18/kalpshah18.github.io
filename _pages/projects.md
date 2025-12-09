@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of my Projects.
+description: Interesting Projects
 nav: true
 nav_order: 3
-display_categories: [C++, Machine Learning, Electrical]
+display_categories: [Machine Learning, C++, Web Development]
 horizontal: false
 ---
 
