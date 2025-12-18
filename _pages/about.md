@@ -27,5 +27,4 @@ latest_posts:
 Hi, I am Kalp.
 
 I am pursuing a Major in Electrical Engineering, along with a Minor in Computer Science and Engineering, set to graduate in 2028.
-I like to develop efficient systems in C++ and am delving into Machine Learning now. My Academic Journey includes hands on projects in Data Analysis,
-Hardware(FPGA Basys3) and leadership as a Coordinator in the Technical Council of the IIT Gandhinagar.
+I like to develop Agentic AI Systems and am delving into Deep Learning Technologies now. My Academic Journey includes hands on projects in Data Science, Natural Language Processing, Computer Vision, Hardware(FPGA Basys3) and leadership as a Coordinator in the Technical Council of the IIT Gandhinagar.
