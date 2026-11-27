@@ -216,6 +216,8 @@ exclude:
   - package.json
   - package-lock.json
   - purgecss.config.js
+  - requirements.txt
+  - test/
   - README.md
   - readme_preview/
   - gems/
